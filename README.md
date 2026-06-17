@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td align="center" valign="middle">
-      <img src="https://media.giphy.com/media/QYdJh32YqqKJBPF0wW/giphy.gif" alt="Hello GIF" height="300">
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3oxeHN2dnU5bjN0eXYzb3JnZ3JrNmNrZWM3Nnk4anhoZ2FiZGZhbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LPFNd1AJBoYcVUExmE/giphy.gif" alt="Hello GIF" height="300">
     </td>
     <td align="center" valign="middle">
       <a href="https://git.io/typing-svg">
