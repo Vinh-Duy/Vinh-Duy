@@ -28,9 +28,9 @@
       </td>
       <td valign="center">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lkishere2/lkishere2/output/github-contribution-grid-snake-dark.svg">
-          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lkishere2/lkishere2/output/github-contribution-grid-snake.svg">
-          <img alt="snake eating contributions" src="https://raw.githubusercontent.com/lkishere2/lkishere2/output/github-contribution-grid-snake.svg">
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vinh-Duy/Vinh-Duy/output/github-contribution-grid-snake-dark.svg">
+          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vinh-Duy/Vinh-Duyoutput/github-contribution-grid-snake.svg">
+          <img alt="snake eating contributions" src="https://raw.githubusercontent.com/Vinh-Duy/Vinh-Duy/output/github-contribution-grid-snake.svg">
         </picture>
       </td>
     </tr>
