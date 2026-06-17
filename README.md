@@ -18,6 +18,13 @@
 - 👯 I'm looking to collaborate on Software Engineering projects — anything from web apps to whatever sounds interesting
 - 😄 Pronouns: they/them
 
+## 🛠️ Tech Stack
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,js,ts,html,css,python,mysql,git,github,vscode" />
+  </a>
+</p>
+
 ## My Contribution
 <div align="center">
   <table>
@@ -29,7 +36,7 @@
       <td valign="center">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vinh-Duy/Vinh-Duy/output/github-contribution-grid-snake-dark.svg">
-          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vinh-Duy/Vinh-Duyoutput/github-contribution-grid-snake.svg">
+          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vinh-Duy/Vinh-Duy/output/github-contribution-grid-snake.svg">
           <img alt="snake eating contributions" src="https://raw.githubusercontent.com/Vinh-Duy/Vinh-Duy/output/github-contribution-grid-snake.svg">
         </picture>
       </td>
