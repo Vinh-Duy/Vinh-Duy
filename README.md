@@ -30,8 +30,8 @@
   <table>
     <tr>
       <td valign="center">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1NXN6NXN6NXN6NXN6NXN6NXN6NXN6NXN6NXN6NXN6NXN6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/i3iy69ZTzh2Scc5bKH/giphy.gif" width="200" alt="Potato Dancing">
-        <p align="center"><i>The potato is cheering!</i></p>
+        <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc254bm1yd2lkYXg0dGs4dHdqbHF6aHV3MXc5cjY1YXFvbjJpcjQ1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hEIuLmpW9DmGA/giphy.gif" width="200" alt="Potato Dancing">
+        <p align="center"><i>Let's gooo suiiiiii</i></p>
       </td>
       <td valign="center">
         <picture>
