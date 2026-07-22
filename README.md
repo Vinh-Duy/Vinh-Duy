@@ -33,7 +33,7 @@
     <tr>
       <td valign="center">
         <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc254bm1yd2lkYXg0dGs4dHdqbHF6aHV3MXc5cjY1YXFvbjJpcjQ1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hEIuLmpW9DmGA/giphy.gif" width="200" alt="Minions Cheering">
-        <p align="center"><i>Let's gooo suiiiiii</i></p>
+        <p align="center"><i>Let's gooo siuuuuuuuuu</i></p>
       </td>
       <td valign="center">
         <picture>
