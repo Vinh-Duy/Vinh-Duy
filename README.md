@@ -2,7 +2,7 @@
   
 # Hello, I'm Vinh Duy!
 
-### IT Student from UET-VNU | Majoring in Semiconductor
+### IT Student from UET-VNU | Semiconductor, EDA & Hardware Verification
         
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FFD700&center=true&vCenter=true&width=550&lines=Welcome+to+my+digital+workspace;Passionate+about+Semiconductors;Exploring+Microchip+Technology;Let's+connect+and+collaborate!" alt="Typing SVG">
 
